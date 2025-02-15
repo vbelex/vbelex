@@ -20,6 +20,6 @@ My proficiency in Data Analytics and keen attention to detail enable the deliver
 ## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vbelex&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com?user=vbelex)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vbelex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vbelex&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vbelex&size_weight=0.5&count_weight=0.5)
 
